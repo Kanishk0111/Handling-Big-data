@@ -1,0 +1,61 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Training / test data
+*.csv
+*.tsv
+
+# Generated model/output files
+output/
+*.joblib
+*.pkl
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store# Virtual environment
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Environment/secrets
+.env
+*.key
+*.pem
+
+# IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Large/raw datasets
+data/raw/
+data/processed/
+
+# Model files
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.pth
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Personal files
+Kanishk_WALKOVER_Resume.pdf
